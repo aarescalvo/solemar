@@ -1,0 +1,21 @@
+# Frigo Unida - Requirements
+# Sistema ERP para Frigorificos - Version Unificada
+
+# Interfaz Grafica
+tkinter-tooltip>=2.1.0
+
+# Base de datos (incluido en Python)
+# sqlite3 - built-in
+
+# Impresion y Reportes PDF
+reportlab>=4.0.0
+pillow>=10.0.0
+
+# Conexion con Hardware (Balanza, RFID)
+pyserial>=3.5
+
+# Codigos de barras
+python-barcode>=0.15.0
+
+# Opcional - Para builds
+pyinstaller>=6.0.0
